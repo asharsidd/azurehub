@@ -1,2 +1,0 @@
-# azurehub
-Azure Files
